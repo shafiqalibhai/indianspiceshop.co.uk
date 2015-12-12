@@ -1,10 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-
-body,td,th {
-	font-family: Arial, Helvetica, sans-serif;
-}
 body {
 	margin-left: 0px;
 	margin-top: 0px;
@@ -15,20 +11,17 @@ body {
 	background-repeat: repeat-x;
 }
 .phone {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 26px;
 	color: #333333;
 	text-align: right;
 	padding-right: 10px;
 }
 .white-head {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 26px;
 	color: #FFFFFF;
 	padding-left: 10px;
 }
 .menu {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #f8d85e;
 	font-weight: bold;
@@ -41,7 +34,6 @@ body {
 	text-indent: 20px;
 }
 .greed-head {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 26px;
 	color: #7a5f0a;
 	background-image: url(../images/cen-bg.jpg);
@@ -50,14 +42,12 @@ body {
 	padding-left: 10px;
 }
 .greed-medium {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 18px;
 	color: #7a5f0a;
 	background-repeat: repeat-x;
 	padding-top: 10px;
 }
 .greentest {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	color: #7A5F0A;
 }
@@ -73,7 +63,6 @@ body {
 	
 }
 .text {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #3b3a2b;
 }
@@ -81,7 +70,6 @@ body {
 .linkbrown {
 	height: 23px;
 	width: 82px;
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	color: #FFFFFF;
 	text-decoration: none;
@@ -92,7 +80,6 @@ body {
 .linkbrown:hover {
 	height: 23px;
 	width: 82px;
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	color: #7A5F0A;
 	text-decoration: none;
@@ -101,13 +88,11 @@ body {
 	font-weight: bold;
 }
 .brown-head {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 34px;
 	color: #cb3e07;
 	padding-left: 10px;
 }
 .blck-head {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 34px;
 	color: #1d1d1d;
 	padding-left: 10px;
@@ -123,7 +108,6 @@ body {
 .linkbrownCopy {
 	height: 23px;
 	width: 82px;
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	color: #FFFFFF;
 	text-decoration: none;
@@ -134,7 +118,6 @@ body {
 .linkbrownCopy:hover {
 	height: 23px;
 	width: 82px;
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	color: #7C2605;
 	text-decoration: none;
@@ -143,19 +126,16 @@ body {
 	font-weight: bold;
 }
 .black-medium {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 18px;
 	color: #212121;
 	background-repeat: repeat-x;
 	padding-top: 10px;
 }
 .white-text-foot {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 11px;
 	color: #FFFFFF;
 }
 .menulink {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #f8d85e;
 	font-weight: bold;
@@ -164,7 +144,6 @@ body {
 	text-decoration: none;
 }
 .menulink:hover {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	color: #FFFFFF;
 	font-weight: bold;
@@ -172,7 +151,6 @@ body {
 	background-position: bottom;
 }
 .but {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	color: #FFFFFF;
 	background-color: #CD4008;
@@ -194,7 +172,6 @@ body {
 }
 
 .greentest-bg {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	color: #7A5F0A;
 	background-color: #FFFF66;
